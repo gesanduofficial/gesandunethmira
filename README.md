@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <summary><b>✨About Me</b></summary><br/>
     Under testing
 </details>
-
+&logo=medium: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium
 ### <div align=center>:hammer_and_wrench: Languages and Tools :</div>
 <div align=center>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
