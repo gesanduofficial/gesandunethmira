@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: he he
 -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 [![MasterHead](https://user-images.githubusercontent.com/95988963/176374943-6276da26-74e2-48ee-aa26-5facfb2548c7.png)](https://github.com/gesandunethmira)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gesandunethmira&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 <h3 align="center">Connect with me:</h3>
