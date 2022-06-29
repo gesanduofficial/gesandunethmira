@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1>
   hello there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30"/>
+  <img src="https://media.giphy.com/media/3FoBTGKkf1iBCdc1ns/giphy.gif" width="30px" height="30"/>
 </h1>
 
 <h1>
@@ -60,11 +60,6 @@ Here are some ideas to get you started:
     </tbody>
 </table>
 </div>
-
-<details>
-    <summary><b>🥰 Donate me</b></summary><br/>
-    Under construction
-</details>
 
 
 <h3 align="center">Connect with me:</h3>
