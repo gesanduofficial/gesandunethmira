@@ -43,8 +43,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;  
 </div>
 
-[![GitHub treak](http://github-readme-streak-stats.herokuapp.com?user=gesandunethmira&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
+| <a href="https://github.com/gesandunethmira/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gesandunethmira&show_icons=true&include_all_commits=true&theme=github-dark-blue&hide_border=true" alt="Gesandu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gesandunethmira&layout=compact&theme=github-dark-blue&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <div align=center>
 <table>
