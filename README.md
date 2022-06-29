@@ -17,6 +17,13 @@ Here are some ideas to get you started:
   hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30"/>
 </h1>
+
+<h1>
+  <img src="https://tenor.com/view/lego-gif-9994409" width="100px" height="100"/>
+</h1>
+
+
+
 <details>
     <summary><b>✨About Me</b></summary><br/>
     Under testing
@@ -39,15 +46,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;  
 </div>
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/entrepreneur/entrepreneur-ar21.svg"></code>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gesandunethmira&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 <div align=center>
