@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 </h1>
 
 <h1>
-  <img src="https://tenor.com/view/lego-gif-9994409"/>
+  hello there
+  <img src="https://tenor.com/P6aj.gif" width="30px" height="30"/>
 </h1>
-
 
 
 <details>
