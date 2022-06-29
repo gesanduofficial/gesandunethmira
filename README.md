@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: he he
 -->
 <h1>
-  hey there
+  hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30"/>
 </h1>
 
@@ -36,7 +36,16 @@ Here are some ideas to get you started:
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gesandunethmira&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
+<table>
+    <tbody>
+        <tr>
+           
+            <td><a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
+            <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
+            </a></td>
+        </tr>
+    </tbody>
+</table>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
