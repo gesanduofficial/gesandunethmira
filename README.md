@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abooVPgeGpknXpu/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/3o7abooVPgeGpknXpu/giphy.gif" width="400" height="200"/>
 </div>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gesandunethmira&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 ### :hammer_and_wrench: Languages and Tools :
