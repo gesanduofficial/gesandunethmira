@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/entrepreneur/entrepreneur-ar21.svg"></code>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gesandunethmira&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>  
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="" height="30" width="40" /></a>  
