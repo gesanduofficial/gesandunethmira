@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h1>
   hello there
-  <img src="https://tenor.com/P6aj.gif" width="30px" height="30"/>
+  <img src="https://media.giphy.com/media/1fhc63dVzG0Kjtd8Mo/giphy.gif" width="30px""/>
 </h1>
 
 
