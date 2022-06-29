@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: he he
 -->
 
-[![MasterHead](https://user-images.githubusercontent.com/95988963/176374943-6276da26-74e2-48ee-aa26-5facfb2548c7.png)](https://github.com/gesandunethmira)
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif]" width="600" height="300"/>
+</div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gesandunethmira&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 ### :hammer_and_wrench: Languages and Tools :
