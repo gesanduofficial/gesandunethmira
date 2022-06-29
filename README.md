@@ -19,14 +19,11 @@ Here are some ideas to get you started:
 </h1>
 
 <h1>
-  <img src="https://media.giphy.com/media/1fhc63dVzG0Kjtd8Mo/giphy.gif" width="100px" height="100"/>
+ <div align=center> <img src="https://media.giphy.com/media/yoJC2qNujv3gJWP504/giphy.gif" width="500px" height="300"/> </div>
 </h1>
 
 
-<details>
-    <summary><b>✨About Me</b></summary><br/>
-    Under testing
-</details>
+
 
 ### <div align=center>:hammer_and_wrench: Languages and Tools :</div>
 <div align=center>
@@ -45,8 +42,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;  
 </div>
 
+[![GitHub treak](http://github-readme-streak-stats.herokuapp.com?user=gesandunethmira&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gesandunethmira&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 <div align=center>
 <table>
     <tbody>
@@ -60,8 +57,15 @@ Here are some ideas to get you started:
         </tr>
     </tbody>
 </table>
-<div>
-<h3 align="center">Connect me:</h3>
+</div>
+
+<details>
+    <summary><b>🥰 Donate me</b></summary><br/>
+    Under construction
+</details>
+
+
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
