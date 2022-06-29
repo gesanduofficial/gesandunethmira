@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zwtyk2rmj64k6ceq6k6e7omzyy&unique={true|1|on|yes})
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gesandunethmira)
