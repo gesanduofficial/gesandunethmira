@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: he he
 -->
 <h1>
-  hello there
-  <img src="https://media.giphy.com/media/3FoBTGKkf1iBCdc1ns/giphy.gif" width="30px" height="30"/>
+  WELCOME
+  <img src="https://media.giphy.com/media/fnlXL6G7E7eFAhTYwY/giphy.gif" width="50px" height="50"/>
 </h1>
 
 <h1>
- <div align=center> <img src="https://media.giphy.com/media/yoJC2qNujv3gJWP504/giphy.gif" width="500px" height="300"/> </div>
+ <div align=center> <img src="https://media.giphy.com/media/LPkczVwUYcMbXsRCdP/giphy.gif" width="500px" height="300"/> </div>
 </h1>
 
 
