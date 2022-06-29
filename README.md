@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: he he
 -->
 [![MasterHead](https://user-images.githubusercontent.com/95988963/176374943-6276da26-74e2-48ee-aa26-5facfb2548c7.png)](https://github.com/gesandunethmira)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gesandunethmira&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
