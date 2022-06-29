@@ -1,4 +1,3 @@
-### Welcome!
 <!--
 **gesandunethmira/gesandunethmira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: he he
 -->
-
+<h1>
+  WELCOME!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 ### <div align=center>:hammer_and_wrench: Languages and Tools :</div>
 <div align=center>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
