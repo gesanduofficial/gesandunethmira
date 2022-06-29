@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: he he
 -->
 <h1>
-  WELCOME
+ <div align=center> WELCOME
   <img src="https://media.giphy.com/media/fnlXL6G7E7eFAhTYwY/giphy.gif" width="50px" height="50"/>
-</h1>
+  </div>
+   </h1>
 
 <h1>
  <div align=center> <img src="https://media.giphy.com/media/LPkczVwUYcMbXsRCdP/giphy.gif" width="500px" height="300"/> </div>
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 </div>
 
 [![GitHub treak](http://github-readme-streak-stats.herokuapp.com?user=gesandunethmira&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
 
 
 <div align=center>
