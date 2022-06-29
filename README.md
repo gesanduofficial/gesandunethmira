@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/entrepreneur/entrepreneur-wordmark.svg"></code>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gesandunethmira&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 <div align=center>
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
     </tbody>
 </table>
 <div>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect me:</h3>
 <p align="center">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
