@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 </h1>
 
 <h1>
-  hello there
-  <img src="https://media.giphy.com/media/1fhc63dVzG0Kjtd8Mo/giphy.gif" width="30px""/>
+  <img src="https://media.giphy.com/media/1fhc63dVzG0Kjtd8Mo/giphy.gif" width="100px" height="100"/>
 </h1>
 
 
