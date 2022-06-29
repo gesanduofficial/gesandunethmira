@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </h1>
 
 <h1>
-  <img src="https://tenor.com/view/lego-gif-9994409" width="100px" height="100"/>
+  <img src="https://tenor.com/view/lego-gif-9994409"/>
 </h1>
 
 
