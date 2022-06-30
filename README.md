@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 <table>
     <tbody>
         <tr>
-            <td><a href="https://www.linkedin.com/in//">
+            <td><a href="https://www.linkedin.com/in/gesandu-nethmira-030011236">
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
-            <td><a href="https://open.spotify.com/playlist/">
+            <td><a href="https://open.spotify.com/user/31zwtyk2rmj64k6ceq6k6e7omzyy?si=1128311d0a034eb7">
             <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
             </a></td>
         </tr>
