@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: he he
 -->
 <h1>
- <div align=center> WELCOME
+ <div align=center> 𝙷𝚎𝚕𝚕𝚘  𝚠𝚘𝚛𝚕𝚍!
   <img src="https://media.giphy.com/media/fnlXL6G7E7eFAhTYwY/giphy.gif" width="50px" height="50"/>
   </div>
    </h1>
@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 <h1>
  <div align=center> <img src="https://media.giphy.com/media/LPkczVwUYcMbXsRCdP/giphy.gif" width="500px" height="300"/> </div>
 </h1>
-
-
 
 
 ### <div align=center>:hammer_and_wrench: Languages and Tools :</div>
@@ -45,6 +43,8 @@ Here are some ideas to get you started:
 
 | <a href="https://github.com/gesandunethmira/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gesandunethmira&show_icons=true&include_all_commits=true&theme=github-dark-blue&hide_border=true" alt="Gesandu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gesandunethmira&layout=compact&theme=github-dark-blue&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
 
 <div align=center>
 <table>
