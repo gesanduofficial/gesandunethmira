@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 </table>
 </div>
 
+![snake gif](https://github.com/gesandunethmira/gesandunethmira/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
