@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: he he
 -->
-### <div align=center>Hey there, Welcome to my github profile</div>
+<h1> <div align=center><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Welcome! to my profile </div> </h1>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </table>
 </div>
 
-![snake gif](https://github.com/gesandunethmira/gesandunethmira/blob/output/github-contribution-grid-snake.gif)
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
