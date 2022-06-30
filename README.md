@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 | <a href="https://github.com/gesandunethmira/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gesandunethmira&show_icons=true&include_all_commits=true&theme=github-dark-blue&hide_border=true" alt="Gesandu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gesandunethmira&layout=compact&theme=github-dark-blue&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+### Spotify plying 🎧
+![gesandu's spotify](https://spotify-recently-played-readme.vercel.app/api?user=31zwtyk2rmj64k6ceq6k6e7omzyy)
 
 
 <div align=center>
