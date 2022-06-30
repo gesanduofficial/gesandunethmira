@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: he he
 -->
-<h1>
- <div align=center> 𝙷𝚎𝚕𝚕𝚘  𝚠𝚘𝚛𝚕𝚍!
-  <img src="https://media.giphy.com/media/fnlXL6G7E7eFAhTYwY/giphy.gif" width="50px" height="50"/>
-  </div>
-   </h1>
+### <div align=center>Hey there, Welcome to my github profile</div>
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 <h1>
  <div align=center> <img src="https://media.giphy.com/media/LPkczVwUYcMbXsRCdP/giphy.gif" width="500px" height="300"/> </div>
